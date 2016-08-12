@@ -18,4 +18,4 @@ The public API used in the project was [TheMovieDb API](http://docs.themoviedb.a
 1. `cd [movie_parser.py directory]`
 2. `python movie_parser.py` 
 
-License [MIT](LICENSE.md)
+License [MIT](LICENSE)
